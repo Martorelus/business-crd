@@ -150,3 +150,4 @@ export default function HomePage() {
     </div>
   );
 }
+// End of page component. Any additional Supabase client setup should live in /utils/supabase
